@@ -1,0 +1,6 @@
+location,dates,month,new_cases_per_million,new_deaths,new_deaths_per_million
+World,2,2,0.61,103,0.01
+World,3,2,0.4,64,0.01
+World,18,10,40.6,3502,0.45
+World,19,10,49.55,4798,0.62
+World,20,10,49.85,6551,0.84
